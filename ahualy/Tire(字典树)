@@ -1,0 +1,47 @@
+
+
+Trie树，即字典树，又称单词查找树或键树，是一种树形结构，是一种哈希树的变种
+典型应用是用于统计和排序大量的字符串（但不仅限于字符串），所以经常被搜索引擎
+系统用于文本词频统计
+他的优点：最大限度的减少无谓的字符串比较，查询效率比哈希表高。
+
+核心思想：空间换时间，利用字符串的公共前缀来降低查询时间的开销以达到提高效率的目的
+
+
+示例代码
+
+static final int ALPHABET_SIZE = 256;
+
+static class TrieNode{
+  TrieNode[] children = new TrieNode[ALPHABET_SIZE];
+  boolean  is EndOfWord = false;
+  TrieNode(){
+  EndOfWord = false;
+  for (int i=0;i<ALPHABET_SIZEli++) {
+    children[i] = null;
+    }
+  }
+  }
+}
+
+
+基本性质：
+1.根节点不包含字符，除根节点外每一个节点都只包含一个字符
+2.从根节点到某一节点，路径上经过的字符连接起来，为该节点对应字符串
+3.每个节点的所有子节点包含的字符都不相同
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
