@@ -1,7 +1,7 @@
 package ahualy;
 
-public class 重复的子字符串 {
-    public static void main(String args[]){
+public class RepeatedSubstringPattern459 {
+    public static void main(String[] args){
 
         boolean res = repeatedSubstringPattern("abac");
         System.out.println(res);

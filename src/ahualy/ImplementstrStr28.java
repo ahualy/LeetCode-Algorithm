@@ -3,7 +3,7 @@ package ahualy;
 import java.util.Arrays;
 import java.util.List;
 
-public class 实现strStr {
+public class ImplementstrStr28 {
     public static void main(String[] args){
         int res = strStr("aaaaa","bba");
         System.out.println(res);
