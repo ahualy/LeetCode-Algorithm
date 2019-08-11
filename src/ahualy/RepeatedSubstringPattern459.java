@@ -3,7 +3,7 @@ package ahualy;
 public class RepeatedSubstringPattern459 {
     public static void main(String[] args){
 
-        boolean res = repeatedSubstringPattern("abac");
+        boolean res = repeatedSubstringPattern("111111111");
         System.out.println(res);
     }
     private static boolean repeatedSubstringPattern(String s) {
