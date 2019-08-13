@@ -31,7 +31,7 @@ class Foo {
     public void third(Runnable printThird) throws InterruptedException {
         System.out.println("second");
         synchronized (lock){
-            
+
             while (!secondFinished) {
                 lock.wait();
             }
