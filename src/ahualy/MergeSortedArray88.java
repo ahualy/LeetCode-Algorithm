@@ -3,6 +3,7 @@ package ahualy;
 public class MergeSortedArray88 {
     public static void main(String args[]){
 
+        //最后得到的新数据的长度和nums1[]相同
         int nums1[] = new int[]{1,2,3,7,8,9,10,11,12,13,14,15};
         int m = 8;
         int nums2[] = new int[]{2,5,6};
