@@ -3,6 +3,14 @@ package ahualy;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * 处理邮箱格式，将邮箱中的@前面的.号以及+号后面的内容剔除掉，得到有效的邮箱账号
+ * 先判断是否是@，如果是，直接跳出循环
+ * 判断是否是.，如果是，就直接剔除掉
+ * 判断是否是+，如果是，还得判断+号到@号的长度，然后剔除掉这个长度的字符串 ，注意j的重置
+ * 最后通过set去重即可
+ */
+
 public class UniqueEmailAddresses929 {
     public static void main(String args[]){
         String emails[] = new String[]{"test.email+alex@leetcode.com" ,"test.e.mail+bob.cathy@leetcode.com","testemail+david@lee.tcode.com"};
