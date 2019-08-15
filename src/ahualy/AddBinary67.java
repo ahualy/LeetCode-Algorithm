@@ -16,7 +16,6 @@ public class AddBinary67 {
         int i = a.length() - 1, j = b.length() -1, carry = 0;
         while (i >= 0 || j >= 0) {
             int sum = carry;
-            System.out.println(sum);
             if (j >= 0)
                 sum += b.charAt(j--) - '0';
             if (i >= 0)
