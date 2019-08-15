@@ -24,7 +24,6 @@ public class AddBinary67 {
                 sum += b.charAt(j--) - '0';
             if (i >= 0)
                 sum += a.charAt(i--) - '0';
-            System.out.println(sum);
 //          核心算法
             sb.append(sum % 2);
 //          更新进位
