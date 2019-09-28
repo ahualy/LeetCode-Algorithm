@@ -1,5 +1,9 @@
 package ahualy;
 
+import jdk.nashorn.internal.ir.IdentNode;
+import org.omg.PortableInterceptor.INACTIVE;
+
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
@@ -13,7 +17,8 @@ public class FirstUniqueCharacterinaString387 {
 
     public static void main(String[] args) {
 
-        int res = firstUniqChar("112233445566");
+//        int res = firstUniqChar("112233445566");
+        int res = firstUniqChar2("loveleetcode");
         System.out.println(res);
     }
 
@@ -41,6 +46,37 @@ public class FirstUniqueCharacterinaString387 {
             if (s.charAt(i) == index) {
                 return i;
             }
+        }
+        return -1;
+    }
+//  第二种方法  对上一种方法进行优化(效率更低)
+    public static int firstUniqChar2(String s) {
+        Map<Character,Map<Integer,Integer>> map = new LinkedHashMap<>();
+        char goal = '\0';
+        for (int i = 0; i < s.length(); i++) {
+            goal = s.charAt(i);
+//          说明该字符已经重复
+                if (map.get(goal) != null) {
+                    Map<Integer,Integer> map1 = new HashMap<>();
+                    Integer key=0;
+                    for (Map.Entry<Integer, Integer> str: map.get(goal).entrySet()) {
+                       key =  str.getKey()+1;
+                    }
+                    map1.put(key,i);
+                    map.put(goal,map1);
+                } else {
+                    Map<Integer,Integer> map1 = new HashMap<>();
+                    map1.put(1,i);
+                    map.put(goal,map1);
+                }
+        }
+        if (map.size()!=0){
+            for (Map.Entry<Character,Map<Integer,Integer>> res : map.entrySet())
+                for (Map.Entry<Integer,Integer> sout : res.getValue().entrySet()) {
+                    if (sout.getKey() == 1) {
+                        return sout.getValue();
+                    }
+                }
         }
         return -1;
     }
