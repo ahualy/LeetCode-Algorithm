@@ -43,10 +43,12 @@ public class RomantoInteger13 {
                 res = res+list.get(i);
             }
         }
+//       处理最后有重复字符结尾的问题，记得加上最后一个字符
         if (list.size()>=2){
             if (list.get(list.size()-1) <= list.get(list.size()-2)) {
                 res = res+list.get( list.size()-1 );
             }
+//       处理只有一个字符的字符串
         } else {
             res = map.get(s.charAt(0));
         }
