@@ -19,24 +19,34 @@ import java.util.Map;
  */
 public class RobotReturntoOrigin657 {
     public static void main(String[] args) {
-        boolean res = judgeCircle("UL");
+        boolean res = judgeCircle("UULLLRRRDD");
         System.out.println(res);
     }
     private static boolean judgeCircle(String moves) {
-        if (moves==null || moves.length()==0){
+        if (moves == null || moves.length() == 0) {
             return true;
         }
 //      判断上下字母个数是否一样，左右字母个数是否一样
-        Map<String,Integer> map = new HashMap<>();
-        int s = 1;int z = 1;
-        for (int i = 0; i < moves.length(); i++) {
-            if (moves.charAt(i)=='U'||moves.charAt(i)=='D'){
-                map.put("UD",s);s++;
-            }
-            else if (moves.charAt(i)=='L'||moves.charAt(i)=='R'){
-                map.put("LR",z);z++;
+        int h = 0;
+        int w = 0;
+        for (int i = 0;i<moves.length();i++) {
+            switch (moves.charAt(i)) {
+                case 'U':
+                    h++;
+                    break;
+                case 'D':
+                    h--;
+                    break;
+                case 'L':
+                    w++;
+                    break;
+                case 'R':
+                    w--;
+                    break;
+                default:
+                    break;
             }
         }
-        return false;
+        return h == 0 && w == 0 ? true : false;
     }
 }
