@@ -18,7 +18,8 @@ public class FirstUniqueCharacterinaString387 {
     public static void main(String[] args) {
 
 //        int res = firstUniqChar("112233445566");
-        int res = firstUniqChar2("loveleetcode");
+//        int res = firstUniqChar2("loveleetcode");
+        int res = firstUniqChar3("112233445566");
         System.out.println(res);
     }
 
@@ -77,6 +78,29 @@ public class FirstUniqueCharacterinaString387 {
                         return sout.getValue();
                     }
                 }
+        }
+        return -1;
+    }
+//    第三种方法
+    public static int firstUniqChar3(String s) {
+        Map<Character,int[]> map = new LinkedHashMap<>();
+        for (int i = 0; i < s.length(); i++) {
+            char goal = s.charAt(i);
+            if (map.get(goal) != null) {
+                map.get(goal)[0] = map.get(goal)[0]+1;
+                map.get(goal)[1] = i;
+                map.put(goal,new int[]{map.get(goal)[0],map.get(goal)[1]});
+            } else {
+                map.put(goal,new int[]{1,i});
+            }
+        }
+        
+        if (map.size() != 0) {
+            for (Map.Entry<Character,int[]> res : map.entrySet()) {
+                if (res.getValue()[0] == 1) {
+                    return res.getValue()[1];
+                }
+            }
         }
         return -1;
     }
