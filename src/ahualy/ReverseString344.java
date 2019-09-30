@@ -1,7 +1,5 @@
 package ahualy;
 
-import java.util.Arrays;
-
 public class ReverseString344 {
     public static void main(String[] args){
         char[] s = new char[]{'h','e','l','l','o'};
