@@ -1,6 +1,4 @@
 package ahualy;
-
-
 /**
  * Given a string text, you want to use the characters of text to form as many instances of the word "balloon" as possible.
  *
@@ -16,7 +14,6 @@ public class MaximumNumberofBalloons1189 {
     }
 
     private static int maxNumberOfBalloons(String text) {
-        
         if (text == "" || text.length() < 7) {
             return 0;
         }
