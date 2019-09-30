@@ -7,8 +7,8 @@ package ahualy;
  */
 public class MultiplyStrings43 {
     public static void main(String[] args) {
-        String num1 = "9133";
-        String num2 = "0";
+        String num1 = "913398523652233541265896565888888888888888888888888888888888888888888888888882";
+        String num2 = "1232568945124578125465852105487455555555555555554";
         String res = multiply(num1,num2);
         System.out.println(res);
     }
