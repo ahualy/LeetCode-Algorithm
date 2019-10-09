@@ -35,6 +35,5 @@ public class DayoftheWeek1185 {
         if (((year%4 == 0 && year%100 !=0) || year%400 == 0) && month >2)
             ++ days;
         return week[days%7];
-
     }
 }
