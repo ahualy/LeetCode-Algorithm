@@ -11,7 +11,7 @@ package ahualy;
  */
 public class StudentAttendanceRecordI551 {
     public static void main(String[] args) {
-        String s = "PPALLL";
+        String s = "PPAA";
         boolean res = checkRecord(s);
         System.out.println(res);
 
