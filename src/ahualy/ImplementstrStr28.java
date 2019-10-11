@@ -1,8 +1,10 @@
 package ahualy;
 
-import java.util.Arrays;
-import java.util.List;
-
+/**
+ * Implement strStr().
+ *
+ * Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+ */
 public class ImplementstrStr28 {
     public static void main(String[] args){
         int res = strStr("aaaaa","bba");
