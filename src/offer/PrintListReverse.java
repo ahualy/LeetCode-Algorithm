@@ -13,7 +13,7 @@ class ListNode{
 }
 
 public class PrintListReverse {
-    public static void main(String srgs[]) {
+    public static void main(String args[]) {
         ListNode node1 = new ListNode();
         ListNode node2 = new ListNode();
         ListNode node3 = new ListNode();
