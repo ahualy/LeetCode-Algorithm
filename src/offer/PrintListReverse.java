@@ -25,7 +25,7 @@ public class PrintListReverse {
         printListReverse(node1);
         printListReverse2(node1);
     }
-
+//    第二种方式采用递归方式
     private static void printListReverse2(ListNode node) {
         if (node != null) {
             if (node.next != null) {
