@@ -1,0 +1,417 @@
+美国"萨克拉门托"级综合补给船
+AOE 1 Sacramento - 1977
+AOE 1 Sacramento - 1981
+AOE 1 Sacramento - 1985
+AOE 1 Sacramento - 1987
+AOE 1 Sacramento - 1989
+美国"供应"级综合补给船  
+AOE 6 Supply - 1994
+AOE 6 Supply - 1997  Transferred to MSC as T-AOE 6
+
+美国"提康德罗加"级巡洋舰
+CG 47 Ticonderoga [Baseline 0  Mk26] - 1983
+CG 47 Ticonderoga [Baseline 0  Mk26] - 1984
+CG 47 Ticonderoga [Baseline 0  Mk26] - 1989
+CG 47 Ticonderoga [Baseline 0  Mk26] - 1991
+CG 47 Ticonderoga [Baseline 0  Mk26] - 1998
+CG 47 Ticonderoga [Baseline 0  Mk26] - 2000
+
+文森斯号
+CG 49 Vincennes [Ticonderoga Baseline 1  Mk26] - 1985
+CG 49 Vincennes [Ticonderoga Baseline 1  Mk26] - 1989
+CG 49 Vincennes [Ticonderoga Baseline 1  Mk26] - 1991
+CG 49 Vincennes [Ticonderoga Baseline 1  Mk26] - 1998
+CG 49 Vincennes [Ticonderoga Baseline 1  Mk26] - 2000
+
+邦克山号
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 1987  SM-2MR Blk II
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 1989  SM-2MR Blk II
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 1991  SM-2MR Blk III
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 1994  SM-2MR Blk III
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 1996  SM-2MR Blk III
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 1998  SM-2MR Blk IIIA
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 2000  SM-2MR Blk IIIB
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 2002  SM-2MR Blk IIIB
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 2005  SM-2MR Blk IIIB
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 2008  SM-2MR Blk IIIB  No AEGIS BMD
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 2010  CMP  SM-2MR Blk IIIB  No AEGIS BMD
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 2012  CMP  SM-2MR Blk IIIB  No AEGIS BMD
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 2015  CMP  SM-6  No AEGIS BMD
+CG 52 Bunker Hill [Ticonderoga Baseline 2  VLS] - 2018
+
+安提坦号
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 1987  SM-2MR Blk II
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 1991  SM-2MR Blk III
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 1994  SM-2MR Blk III
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 1996  SM-2MR Blk III
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 1998  SM-2MR Blk IIIA
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 2000  SM-2MR Blk IIIB
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 2002  SM-2MR Blk IIIB
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 2005  SM-2MR Blk IIIB
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 2008  SM-2MR Blk IIIB  No AEGIS BMD
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 2010  CMP  SM-2MR Blk IIIB  No AEGIS BMD
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 2012  CMP  SM-2MR Blk IIIB  No AEGIS BMD
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 2015  CMP  SM-6  No AEGIS BMD
+CG 54 Antietam [Ticonderoga Baseline 3  VLS] - 2018
+
+圣吉辛托古号
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 1989  SM-2MR Blk II  AN SQS-53B
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 1991  SM-2MR Blk III
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 1994  SM-2MR Blk III
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 1996  SM-2MR Blk III
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 1998  SM-2MR Blk IIIA
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 2000  SM-2MR Blk IIIB
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 2002  SM-2MR Blk IIIB
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 2005  SM-2MR Blk IIIB
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 2008  SM-2MR Blk IIIB  No AEGIS BMD
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 2010  CMP  SM-2MR Blk IIIB  No AEGIS BMD
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 2012  CMP  SM-2MR Blk IIIB  No AEGIS BMD
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 2015  CMP  SM-6  No AEGIS BMD
+CG 56 San Jacinto [Ticonderoga Baseline 3  VLS] - 2018
+
+普林斯顿号
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 1989  SM-2MR Blk II
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 1991  SM-2MR Blk III
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 1994  SM-2MR Blk III
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 1996  SM-2MR Blk III
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 1998  SM-2MR Blk IIIA
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 2000  SM-2MR Blk IIIB
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 2002  SM-2MR Blk IIIB
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 2005  SM-2MR Blk IIIB
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 2008  SM-3  AEGIS BMD  SM-2MR Blk IIIB
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 2010  SM-3  AEGIS BMD  SM-2MR Blk IIIB
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 2012  SM-3  AEGIS BMD  SM-2MR Blk IIIB
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 2015  CMP  SM-3  AEGIS BMD  SM-6
+CG 59 Princeton [Ticonderoga Baseline 3  VLS] - 2018  SM-3 Blk IIA
+
+安齐奥号
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 1992  SM-2MR Blk III
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 1994  SM-2MR Blk III
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 1996  SM-2MR Blk III
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 1998  SM-2MR Blk IIIA
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 2000  SM-2MR Blk IIIB
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 2002  SM-2MR Blk IIIB
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 2005  SM-2MR Blk IIIB
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 2008  SM-2MR Blk IIIB  No AEGIS BMD
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 2010  SM-2MR Blk IIIB  No AEGIS BMD
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 2012  SM-2MR Blk IIIB  No AEGIS BMD
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 2015  CMP  SM-6  No AEGIS BMD
+CG 68 Anzio [Ticonderoga Baseline 4  VLS] - 2018  SM-3 Blk IIA
+
+“伊利湖”号
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 1994  SM-2MR Blk III
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 1996  SM-2MR Blk III
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 1998  SM-2MR Blk IIIA
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 2000  SM-2ER Blk IV
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 2002  SM-2ER Blk IV
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 2005  SM-2ER Blk IV
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 2008  SM-3  AEGIS BMD  SM-2MR Blk IV
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 2010  SM-3  AEGIS BMD  SM-2MR Blk IV
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 2012  SM-3  AEGIS BMD  SM-2MR Blk IV Anti-ASBM
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 2015  CMP  SM-3  AEGIS BMD  SM-6
+CG 70 Lake Erie [Ticonderoga Baseline 4  VLS] - 2018  SM-3 Blk IIA
+
+“弗吉尼亚”级核动力巡洋舰
+CGN 38 Virginia - 1979
+CGN 38 Virginia - 1984
+CGN 38 Virginia - 1987
+CGN 38 Virginia - 1989
+CGN 38 Virginia - 1991  Semi-NTU
+
+CGN 42 Virginia [Mk26] - 1983  No TACTAS
+CGN 42 Virginia [Mk26] - 1984  ABL
+CGN 42 Virginia [Mk26] - 1987  ABL
+CGN 42 Virginia [Mk26] - 1989  ABL
+CGN 42 Virginia [Mk26] - 1991  ABL
+CGN 42 Virginia [Mk26] - 1998
+CGN 42 Virginia [Mk26] - 2000
+CGN 42 Virginia [VLS] - 1987  TACTAS
+CGN 42 Virginia [VLS] - 1989
+CGN 42 Virginia [VLS] - 1991
+CGN 42 Virginia [VLS] - 1994
+CGN 42 Virginia [VLS] - 1996
+CGN 42 Virginia [VLS] - 1998
+CGN 42 Virginia [VLS] - 2000
+CGN 42 Virginia [VLS] - 2002
+
+美国"小鹰"级航母
+CV 66 America [Kitty Hawk Class] - 1981
+CV 66 America [Kitty Hawk Class] - 1985
+CV 66 America [Kitty Hawk Class] - 1988
+CV 66 America [Kitty Hawk Class] - 1994
+
+美国"企业"号核动力航母
+CVN 65 Enterprise - 1981
+CVN 65 Enterprise - 1985
+CVN 65 Enterprise - 1994
+CVN 65 Enterprise - 1997
+CVN 65 Enterprise - 2000
+CVN 65 Enterprise - 2003
+CVN 65 Enterprise - 2005
+CVN 65 Enterprise - 2007  
+CVN 80 Enterprise - 2027
+
+美国"尼米兹"级核动力航母
+CVN 68 Nimitz - 1975
+CVN 68 Nimitz - 1984
+CVN 68 Nimitz - 1985
+CVN 68 Nimitz - 1992
+CVN 68 Nimitz - 1994
+CVN 68 Nimitz - 1997
+CVN 68 Nimitz - 2001
+CVN 68 Nimitz - 2003
+CVN 68 Nimitz - 2005
+CVN 68 Nimitz - 2007
+CVN 68 Nimitz - 2009
+CVN 68 Nimitz - 2017  Anti-Torpedo Torpedo
+
+艾森豪威尔号航空母舰
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 1979
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 1985
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 1987
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 1992
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 1994
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 1997
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 2000
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 2005
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 2007
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 2009
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 2015  Anti-Torpedo Torpedo
+CVN 69 Dwight D. Eisenhower [Nimitz Class] - 2017
+
+卡尔·文森号航空母舰
+CVN 70 Carl Vinson [Nimitz Class] - 1982
+CVN 70 Carl Vinson [Nimitz Class] - 1985
+CVN 70 Carl Vinson [Nimitz Class] - 1989
+CVN 70 Carl Vinson [Nimitz Class] - 1994
+CVN 70 Carl Vinson [Nimitz Class] - 1997
+CVN 70 Carl Vinson [Nimitz Class] - 2000
+CVN 70 Carl Vinson [Nimitz Class] - 2003
+CVN 70 Carl Vinson [Nimitz Class] - 2009
+CVN 70 Carl Vinson [Nimitz Class] - 2017
+
+罗斯福号航空母舰
+CVN 71 Theodore Roosevelt [Nimitz Class] - 1986
+CVN 71 Theodore Roosevelt [Nimitz Class] - 1992
+CVN 71 Theodore Roosevelt [Nimitz Class] - 1994
+CVN 71 Theodore Roosevelt [Nimitz Class] - 1998
+CVN 71 Theodore Roosevelt [Nimitz Class] - 2000
+CVN 71 Theodore Roosevelt [Nimitz Class] - 2003
+CVN 71 Theodore Roosevelt [Nimitz Class] - 2005
+CVN 71 Theodore Roosevelt [Nimitz Class] - 2007
+CVN 71 Theodore Roosevelt [Nimitz Class] - 2012
+CVN 71 Theodore Roosevelt [Nimitz Class] - 2015  Anti-Torpedo Torpedo
+CVN 71 Theodore Roosevelt [Nimitz Class] - 2017
+
+亚伯拉罕·林肯号航空母舰
+CVN 72 Abraham Lincoln [Nimitz Class] - 1989
+CVN 72 Abraham Lincoln [Nimitz Class] - 1992
+CVN 72 Abraham Lincoln [Nimitz Class] - 1994
+CVN 72 Abraham Lincoln [Nimitz Class] - 1997
+CVN 72 Abraham Lincoln [Nimitz Class] - 2000
+CVN 72 Abraham Lincoln [Nimitz Class] - 2003
+CVN 72 Abraham Lincoln [Nimitz Class] - 2005
+CVN 72 Abraham Lincoln [Nimitz Class] - 2007
+CVN 72 Abraham Lincoln [Nimitz Class] - 2011
+CVN 72 Abraham Lincoln [Nimitz Class] - 2017
+
+乔治·华盛顿号核动力航空母舰
+CVN 73 George Washington [Nimitz Class] - 1992
+CVN 73 George Washington [Nimitz Class] - 1994
+CVN 73 George Washington [Nimitz Class] - 1997
+CVN 73 George Washington [Nimitz Class] - 2000
+CVN 73 George Washington [Nimitz Class] - 2003
+CVN 73 George Washington [Nimitz Class] - 2006
+CVN 73 George Washington [Nimitz Class] - 2011
+CVN 73 George Washington [Nimitz Class] - 2017
+
+斯坦尼斯号航空母舰
+CVN 74 John C. Stennis [Nimitz Class] - 1995
+CVN 74 John C. Stennis [Nimitz Class] - 1997
+CVN 74 John C. Stennis [Nimitz Class] - 2000
+CVN 74 John C. Stennis [Nimitz Class] - 2003
+CVN 74 John C. Stennis [Nimitz Class] - 2006
+CVN 74 John C. Stennis [Nimitz Class] - 2009
+CVN 74 John C. Stennis [Nimitz Class] - 2017
+
+哈里·杜鲁门号航空母舰
+CVN 75 Harry S Truman [Nimitz Class] - 1998
+CVN 75 Harry S Truman [Nimitz Class] - 2000
+CVN 75 Harry S Truman [Nimitz Class] - 2003
+CVN 75 Harry S Truman [Nimitz Class] - 2005
+CVN 75 Harry S Truman [Nimitz Class] - 2007
+CVN 75 Harry S Truman [Nimitz Class] - 2011
+CVN 75 Harry S Truman [Nimitz Class] - 2015  Anti-Torpedo Torpedo
+CVN 75 Harry S Truman [Nimitz Class] - 2017
+
+里根号航空母舰
+CVN 76 Ronald Reagan [Nimitz Class] - 2004
+CVN 76 Ronald Reagan [Nimitz Class] - 2007
+CVN 76 Ronald Reagan [Nimitz Class] - 2017
+
+布什号航空母舰
+CVN 77 George Bush [Nimitz Class] - 2009
+CVN 77 George Bush [Nimitz Class] - 2014  Anti-Torpedo Torpedo
+CVN 77 George Bush [Nimitz Class] - 2017
+
+美国"斯普鲁恩斯"级驱逐舰
+DD 963 Spruance [ABL  Mk15] - 1984
+DD 963 Spruance [ABL  Mk15] - 1985
+DD 963 Spruance [ABL  Mk15] - 1987
+DD 963 Spruance [ABL  Mk15] - 1989
+DD 963 Spruance [ABL  Mk15] - 1991
+DD 963 Spruance [ABL  Mk15] - 1994  ASROC Removed
+DD 963 Spruance [ABL] - 1984
+DD 963 Spruance [ABL] - 1985
+DD 963 Spruance [Baseline] - 1979
+DD 963 Spruance [Baseline] - 1984
+DD 963 Spruance [Baseline] - 1986
+DD 963 Spruance [Baseline] - 1989
+DD 963 Spruance [Baseline] - 1991
+DD 963 Spruance [Baseline] - 1994  ASROC Removed
+DD 963 Spruance [VLS] - 1986
+DD 963 Spruance [VLS] - 1991
+DD 963 Spruance [VLS] - 1994
+DD 963 Spruance [VLS] - 1996
+DD 963 Spruance [VLS] - 1998
+DD 963 Spruance [VLS] - 2000
+DD 963 Spruance [VLS] - 2002
+
+美国"阿利·伯克"级驱逐舰 
+DDG 51 Arleigh Burke [Arleigh Burke Flight I  SeaRAM] - 2016  DDG 64  DDG 71
+DDG 51 Arleigh Burke [Arleigh Burke Flight I  SeaRAM] - 2018
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 1991
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 1994
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 1996
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 1998
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 2000
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 2002
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 2005
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 2008  SM-3  AEGIS BMD
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 2012  DMP  SM-3  AEGIS BMD
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 2015  DMP  SM-3  AEGIS BMD
+DDG 51 Arleigh Burke [Arleigh Burke Flight I] - 2018  DMP  SM-3  AEGIS BMD
+
+马汉号
+DDG 72 Mahan [Arleigh Burke Flight II  SeaRAM] - 2017  DDG 75  DDG 78
+DDG 72 Mahan [Arleigh Burke Flight II  SeaRAM] - 2018
+DDG 72 Mahan [Arleigh Burke Flight II] - 1998
+DDG 72 Mahan [Arleigh Burke Flight II] - 2000
+DDG 72 Mahan [Arleigh Burke Flight II] - 2002
+DDG 72 Mahan [Arleigh Burke Flight II] - 2005
+DDG 72 Mahan [Arleigh Burke Flight II] - 2008  SM-3  AEGIS BMD
+DDG 72 Mahan [Arleigh Burke Flight II] - 2012  DMP  SM-3  AEGIS BMD
+DDG 72 Mahan [Arleigh Burke Flight II] - 2015  DMP  SM-3  AEGIS BMD
+DDG 72 Mahan [Arleigh Burke Flight II] - 2018  DMP  SM-6  AEGIS BMD
+
+奥斯卡·奥斯汀号
+DDG 79 Oscar Austin [Arleigh Burke Flight IIA] - 2000  127mm 54
+DDG 79 Oscar Austin [Arleigh Burke Flight IIA] - 2002  127mm 54
+DDG 79 Oscar Austin [Arleigh Burke Flight IIA] - 2005  127mm 54
+DDG 79 Oscar Austin [Arleigh Burke Flight IIA] - 2008  127mm 54
+DDG 79 Oscar Austin [Arleigh Burke Flight IIA] - 2010  127mm 54
+DDG 79 Oscar Austin [Arleigh Burke Flight IIA] - 2015  127mm 54
+DDG 79 Oscar Austin [Arleigh Burke Flight IIA] - 2018  127mm 54
+
+温斯顿·S·丘吉尔号
+DDG 81 Winston S. Churchill [Arleigh Burke Flight IIA] - 2002  127mm 62
+DDG 81 Winston S. Churchill [Arleigh Burke Flight IIA] - 2005  127mm 62
+DDG 81 Winston S. Churchill [Arleigh Burke Flight IIA] - 2008  127mm 62
+DDG 81 Winston S. Churchill [Arleigh Burke Flight IIA] - 2010  127mm 62
+DDG 81 Winston S. Churchill [Arleigh Burke Flight IIA] - 2015  127mm 62
+DDG 81 Winston S. Churchill [Arleigh Burke Flight IIA] - 2018  127mm 62
+
+麦克坎贝尔号
+DDG 85 McCampbell [Arleigh Burke Flight IIA] - 2003  No CIWS
+DDG 85 McCampbell [Arleigh Burke Flight IIA] - 2005  No CIWS
+DDG 85 McCampbell [Arleigh Burke Flight IIA] - 2008  No CIWS
+DDG 85 McCampbell [Arleigh Burke Flight IIA] - 2010  No CIWS
+DDG 85 McCampbell [Arleigh Burke Flight IIA] - 2015  CIWS Reinstalled
+DDG 85 McCampbell [Arleigh Burke Flight IIA] - 2018
+
+平克尼号
+DDG 91 Pinckney [Arleigh Burke Flight IIA] - 2005  ESSM
+DDG 91 Pinckney [Arleigh Burke Flight IIA] - 2008  ESSM  1x AN WLD-1(V)1 RMS (DDG 91-95)
+DDG 91 Pinckney [Arleigh Burke Flight IIA] - 2010  ESSM  1x AN WLD-1(V)1 RMS (DDG 91-95)
+DDG 91 Pinckney [Arleigh Burke Flight IIA] - 2015  ESSM  CIWS Reinstalled  1x AN WLD-1(V)1 RMS (DDG 91-95)
+DDG 91 Pinckney [Arleigh Burke Flight IIA] - 2018  1x AN WLD-1(V)1 RMS (DDG 91-95)
+班布里奇号
+DDG 96 Bainbridge [Arleigh Burke Flight IIA] - 2006
+DDG 96 Bainbridge [Arleigh Burke Flight IIA] - 2008  ESSM  1x AN WLD-1(V)1 RMS (DDG 96 Only)
+DDG 96 Bainbridge [Arleigh Burke Flight IIA] - 2010  ESSM  1x AN WLD-1(V)1 RMS (DDG 96 Only)
+DDG 96 Bainbridge [Arleigh Burke Flight IIA] - 2015  ESSM  CIWS Reinstalled  SEWIP BLock 2  1x AN WLD-1(V)1 RMS (DDG 96 Only)
+DDG 96 Bainbridge [Arleigh Burke Flight IIA] - 2018
+
+美国"佩里"级护卫舰
+安德伍德号 
+FFG 36 Underwood [Perry Class] - 1983
+FFG 36 Underwood [Perry Class] - 1984
+FFG 36 Underwood [Perry Class] - 1988
+FFG 36 Underwood [Perry Class] - 1991
+FFG 36 Underwood [Perry Class] - 1994
+FFG 36 Underwood [Perry Class] - 1998
+FFG 36 Underwood [Perry Class] - 2000
+FFG 36 Underwood [Perry Class] - 2002
+FFG 36 Underwood [Perry Class] - 2005  No SM-1MR
+FFG 36 Underwood [Perry Class] - 2008  No SM-1MR
+FFG 36 Underwood [Perry Class] - 2010  No SM-1MR
+FFG 7 Oliver Hazard Perry - 1978
+FFG 7 Oliver Hazard Perry - 1981
+FFG 7 Oliver Hazard Perry - 1984
+FFG 7 Oliver Hazard Perry - 1986
+FFG 7 Oliver Hazard Perry - 1988
+FFG 7 Oliver Hazard Perry - 1991
+FFG 7 Oliver Hazard Perry - 1994
+FFG 7 Oliver Hazard Perry - 1998
+FFG 7 Oliver Hazard Perry - 2001
+美国LCAC气垫登陆艇
+LCAC 1 - 1987
+LCAC 1 - 2005  SLEP
+美国"塔拉瓦"级通用两栖攻击舰   
+LHA 1 Tarawa - 1976
+LHA 1 Tarawa - 1983
+LHA 1 Tarawa - 1991
+LHA 1 Tarawa - 1995
+LHA 1 Tarawa - 2000
+LHA 1 Tarawa - 2002
+美国"黄蜂"级通用两栖攻击舰
+LHD 1 Wasp - 1989
+LHD 1 Wasp - 1994
+LHD 1 Wasp - 1997
+LHD 1 Wasp - 2000
+LHD 1 Wasp - 2002
+LHD 1 Wasp - 2004
+LHD 1 Wasp - 2007
+LHD 1 Wasp - 2017
+美国"圣安东尼奥"级多用途两栖船坞运输舰
+LPD 17 San Antonio - 2006
+LPD 17 San Antonio - 2009
+LPD 17 San Antonio - 2017  RAM Blk II
+美国"惠德贝岛"级船坞登陆舰    
+LSD 41 Whidbey Island - 1985
+LSD 41 Whidbey Island - 1987
+LSD 41 Whidbey Island - 1991
+LSD 41 Whidbey Island - 1996
+LSD 41 Whidbey Island - 2001
+LSD 41 Whidbey Island - 2003
+LSD 41 Whidbey Island - 2008
+LSD 41 Whidbey Island - 2017
+美国"哈泊斯费里"级船坞登陆舰 
+LSD 49 Harpers Ferry - 1994
+LSD 49 Harpers Ferry - 1996
+LSD 49 Harpers Ferry - 2001
+LSD 49 Harpers Ferry - 2003
+LSD 49 Harpers Ferry - 2008
+LSD 49 Harpers Ferry - 2017
+美国"新港"级坦克登陆舰    
+LST 1179 Newport - 1978  3x LCVP  1x LCP
+LST 1179 Newport - 1986  3x LCVP  1x LCP
+美国"复仇者"级猎扫雷舰    
+MCM 1 Avenger - 1988  2x AN SLQ-48 MNV ROV
+MCM 1 Avenger - 1994  2x AN SLQ-48 MNV ROV
+MCM 1 Avenger - 2013  2x AN SLQ-48 MNV ROV   10x SeaFox Inspection ROV
+美国"观察岛"号航天测量船   
+T-AGM 23 Observation Island - 1982  Cobra Judy
+美国"供应"级综合补给船 
+T-AOE 6 Supply - 1999
+
