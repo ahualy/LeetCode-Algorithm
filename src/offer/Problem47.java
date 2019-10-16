@@ -18,6 +18,5 @@ public class Problem47 {
             b = carray;
         }while (b!=0);
         return a;
-
     }
 }
