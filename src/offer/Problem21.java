@@ -6,6 +6,10 @@ import java.util.Stack;
  * 面试题 21:包含 min 函数的栈
  * 题目:定义栈的数据结构，请在该类型中实现一个能够得到栈的最小元素的min 函数。
  * 在该栈中，调用min、push及pop的时间复杂度都是O(1)
+ *
+ * peek 和 pop的区别
+ * peek只会返回栈顶顶元素，不会将其删掉
+ * pop直接会做元素顶出栈操作，将会把元素从栈中删除掉
  */
 
 class MyStack<T>{
