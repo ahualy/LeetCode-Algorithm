@@ -15,6 +15,7 @@ public class Problem28 {
             return;
         char[] chs = str.toCharArray();
         int point = 0;
+        // 第一次输出字符本身
         System.out.println(chs);
         System.out.println(" ");
         count++;
