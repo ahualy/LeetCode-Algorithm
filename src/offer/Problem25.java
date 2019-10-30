@@ -63,6 +63,7 @@ public class Problem25 {
         stack.pop();
     }
     private static void deepSearch(BinaryTreeNode root,Stack<Integer> stack) {
+//        通过栈来存储每一次访问的节点
         stack.push(root.value);
         if (root.leftNode == null && root.rightNode == null) {
             String res = "";
@@ -71,6 +72,7 @@ public class Problem25 {
             }
             System.out.println(res.substring(0,res.length()-2));
         }
+//        对每个节点进行递归调用
         if (root.leftNode != null)
             deepSearch(root.leftNode,stack);
         if (root.rightNode != null)
